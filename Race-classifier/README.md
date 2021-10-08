@@ -1,4 +1,10 @@
+# Race classifier 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BodaSadalla98/FastAi-C1/HEAD?urlpath=%2Fvoila%2Frender%2FRace-classifier-voila.ipynb)
-# FastAi-C1
-This is repo for projects made while  Taking Fast Ai  course, Practical deep learning for coders 
+This is a Race calssifier, simply you enter an image and it callsifies it into one of seven Ethnities:
+ - East Asian
+ - Indian 
+ - Black
+ - White' 
+ - Middle Eastern
+ - Latino_Hispanic 
+ - Southeast Asian
